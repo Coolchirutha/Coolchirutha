@@ -1,6 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Mouni Nischal - aka Coolchirutha 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Brother, Friend and Developer!
 - 🔭 I’m currently working Competitive Programming!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other JS Developers
