@@ -1,6 +1,6 @@
 ### Hi there, I'm Mouni Nischal - aka Coolchirutha 👋
 
-## I'm a Student, Gamer and Developer!
+## I'm a Student, Competitive Coder and Developer!
 - 🔭 I’m currently working on Competitive Programming!
 - 🌱 Trying to learn everything. 🤣
 - 👯 I’m looking to collaborate with other JS Developers.
