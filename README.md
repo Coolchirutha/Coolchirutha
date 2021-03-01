@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Competitive Programming!
 - 🌱 Trying to learn everything. 🤣
 - 👯 I’m looking to collaborate with other JS Developers.
-- 🥅 2020 Goals: Start CP and get an internship through CDC!!!
+- 🥅 2021 Goals: Let's get placed and learn a new skill(ML??)!!!
 - ⚡ Fun fact: I love to sing and listen to songs and play games.
 
 ### Connect with me:
