@@ -1,10 +1,10 @@
 ### Hi there, I'm Mouni Nischal D - aka Coolchirutha 👋
 
 ## I'm a Student, Competitive Coder and Developer!
-- 🔭 I’m currently working on Competitive Programming!
+- 🔭 I’m currently working on Data!
 - 🌱 Trying to be more productive.
 - 👯 I’m looking to collaborate with other JS Developers.
-- 🥅 2021 Goals: Let's get placed and learn a new skill(ML??)!!!
+- 🥅 2022 Goals: Finish up my portfolio 😂 and learn a new trade!!!
 - ⚡ Fun fact: I love to sing and listen to songs and play games.
 
 ### Connect with me:
@@ -27,7 +27,6 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
