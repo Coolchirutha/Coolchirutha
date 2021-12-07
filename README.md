@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Data!
 - 🌱 Trying to be more productive.
 - 👯 I’m looking to collaborate with other JS Developers.
-- 🥅 2022 Goals: Finish up my portfolio 😂 and learn a new trade!!!
+- 🥅 2022 Goals: Finish up my portfolio website 😂 and learn a new trade!!!
 - ⚡ Fun fact: I love to sing and listen to songs and play games.
 
 ### Connect with me:
