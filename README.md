@@ -1,10 +1,9 @@
 ### Hi there, I'm Mouni Nischal D - aka Coolchirutha 👋
 
 ## I'm a Student, Competitive Coder and Developer!
-- 🔭 I’m currently working on Data!
-- 🌱 Trying to be more productive.
-- 👯 I’m looking to collaborate with other JS Developers.
-- 🥅 2022 Goals: Finish up my portfolio website 😂 and learn a new trade!!!
+- 🔭 I’m currently working on Computer science!
+- 🌱 Trying to learn great CS fundamentals.
+- 🥅 2023 Goals: Learn the fundamentals of Computer science and also strengthen DSA skills!!!
 - ⚡ Fun fact: I love to sing and listen to songs and play games.
 
 ### Connect with me:
