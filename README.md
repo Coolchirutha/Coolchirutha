@@ -30,7 +30,4 @@
 <br />
 
 
-
-<img align="left" alt="Coolchirutha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Coolchirutha&show_icons=true&hide_border=true&theme=dark" />
-
 [linkedin]: https://www.linkedin.com/in/mouni-nischal-88689522/
