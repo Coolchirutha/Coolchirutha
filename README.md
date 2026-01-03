@@ -8,9 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mouninischal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mouninischal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mouninischal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -35,6 +33,4 @@
 
 <img align="left" alt="Coolchirutha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Coolchirutha&show_icons=true&hide_border=true&theme=dark" />
 
-[twitter]: https://twitter.com/MouniNischal
-[instagram]: https://www.instagram.com/dmn_ikkada/
 [linkedin]: https://www.linkedin.com/in/mouni-nischal-88689522/
